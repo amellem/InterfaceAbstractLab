@@ -16,11 +16,11 @@ Instructions for Lab #2:
 1. Create an interface super class that contains common methods
    to be inherited by the sub-classes that are provided.
 2. Modify your sub-classes to take advantage of this inheritance. You will 
-   need to implement all methods in the sub classses Remember that Netbeans has
+   need to implement all methods in the sub classes Remember that Netbeans has
    a wizard to help you with this. You will see a little yellow light bulb
    at the left of the code. Clicking it will let "implement all abstract
    methods". How will you deal with common properties? Remember, Interfaces
-   can't habe properties!
+   can't have properties!
 3. Fix any and all encapsulation problems.
 4. Create a startup class to test your code. In this startup class create and
    use at least one instance of each sub-class.
